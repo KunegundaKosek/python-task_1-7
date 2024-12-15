@@ -25,7 +25,7 @@ else:
 # 4. Napisz program w Python, który sprawdzi czy podana liczba jest parzysta czy
 # nieparzysta. Wykorzystaj instrukcję warunkową IF... ELSE...
 
-if get_even_numer % 2 == 0:
+if get_even_numer % 2 == 0 and get_even_numer != 0:
       print("Liczba jest parzysta.")
 elif get_even_numer % 2 != 0:
       print("Liczba jest nieparzysta.")
