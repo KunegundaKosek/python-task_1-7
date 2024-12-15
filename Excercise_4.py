@@ -1,3 +1,5 @@
+# Zadania na GitHub: https://github.com/KunegundaKosek/python-task_1-7
+
 import random
 
 # 1. Napisz program w języku Python, który przyjmie od użytkownika liczbę

@@ -1,3 +1,5 @@
+# Zadania na GitHub: https://github.com/KunegundaKosek/python-task_1-7
+
 # 1. Napisz program w Python, który sprawdzi, czy podana liczba jest parzysta.
 
 get_even_numer = int(input("Podaj liczbę: "))

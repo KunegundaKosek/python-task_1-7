@@ -1,3 +1,5 @@
+# Zadania na GitHub: https://github.com/KunegundaKosek/python-task_1-7
+
 import math
 
 # 1. Napisz program w Pythonie, który za pomocą pętli for wyświetli liczby od 1 do

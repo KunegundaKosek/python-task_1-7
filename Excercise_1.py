@@ -1,3 +1,5 @@
+# Zadania na GitHub: https://github.com/KunegundaKosek/python-task_1-7
+
 # 1. Napisz program w Pythonie, który poprosi użytkownika o wprowadzenie
 # swojego imienia i nazwiska z klawiatury, a następnie wyświetli je na ekranie.
 
